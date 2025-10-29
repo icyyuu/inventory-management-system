@@ -110,4 +110,4 @@ It allows users to track available items, manage categories, and update inventor
 
 This project is **free to use** for educational and personal purposes.  
 You may copy, modify, and share it as long as proper credit is given.
-© 2025 Soyoon Ho — All rights reserved.
+© 2025 Samantha Fernandez — All rights reserved.
